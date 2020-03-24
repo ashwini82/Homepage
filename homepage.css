@@ -1,0 +1,43 @@
+
+#bg-img{
+	background: url(https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg);
+	background-size:100%;                                                   
+	min-height:700px;
+	background-repeat: no-repeat;
+}
+
+}
+.h2{
+	text-align: center;
+}
+.card-footer{
+	text-align: center;
+     font-size:30px;}
+.card-body2{
+
+	font-size:20px;
+	font-family: 
+}
+.col-sm-6{
+	background-color: black;
+}
+.container-fluid3{
+	background-color: black;
+}
+.container-fluid1{
+	background-color:white;
+}
+.body1{
+	font-size: 40px;
+}
+li a{
+	text-decoration: none;
+	color: white;
+}
+li a:hover{
+	text-decoration-color: #e35443;
+	color: white;
+}
+.address, .cities, .copyright{
+	color: white;
+}
